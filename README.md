@@ -1,14 +1,14 @@
-# Hardware Toolkit Suite 🚀
+# Hardware Info Tool 🚀
 
 <img width="1399" height="799" alt="Menu" src="https://github.com/user-attachments/assets/048a4ae7-5e5d-4134-82bc-5345d230ace9" />
 
-Hardware Toolkit Suite is an advanced Windows utility focused on hardware management, virtualization workflows, system diagnostics, and performance optimization.
+Hardware Info Tool is an advanced Windows utility focused on hardware management, virtualization workflows, system diagnostics, and performance optimization.
 
 The project combines hardware utilities, virtual disk automation, monitoring tools, and Windows configuration features into a single lightweight interface designed for power users and system administrators.
 
 ## 📌 Overview
 
-Hardware Toolkit Suite provides a centralized environment for advanced Windows management tasks, including:
+Hardware Info Tool provides a centralized environment for advanced Windows management tasks, including:
 
 - ⚙️ Hardware configuration utilities
 - 💾 Virtual disk automation
@@ -69,7 +69,7 @@ The application is designed to remain lightweight, responsive, and easy to use w
 
 ## 📋 Requirements
 
-To run Hardware Toolkit Suite you will need:
+To run Hardware Info Tool you will need:
 
 - 🖥️ Windows 10 / Windows 11
 - ⚡ Administrator privileges
