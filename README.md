@@ -1,2 +1,2 @@
 # Spoofer
-<img width="1399" height="799" alt="Menu" src="https://github.com/user-attachments/assets/683ac6c9-5fae-44eb-bf29-612bfb60cd4e" />
+<img width="1399" height="799" alt="Menu" src="https://github.com/user-attachments/assets/048a4ae7-5e5d-4134-82bc-5345d230ace9" />
